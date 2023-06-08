@@ -24,7 +24,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 The following image shows a mock-up of the app:
 
-![Existing notes are listed in the left-hand column with a started note on the right-hand side to show the user how to proceed.](./Develop/public/assets/images/NoteTakerCreatorDemo.png)
+![Existing notes are listed in the left-hand column with a started note on the right-hand side to show the user how to proceed.](./public/assets/images/NoteTakerCreatorDemo.png)
 
 ## Submission Requirements
 
